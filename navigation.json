@@ -19,14 +19,14 @@
         "type": "folder",
         "children": [
           {
-            "label": "HI",
-            "type": "page",
-            "path": "Flowers/flower-hi.mdx"
-          },
-          {
             "label": "LOW",
             "type": "page",
             "path": "Flowers/flower-low.mdx"
+          },
+          {
+            "label": "HI",
+            "type": "page",
+            "path": "Flowers/flower-hi.mdx"
           }
         ]
       }
