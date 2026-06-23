@@ -1,0 +1,35 @@
+[
+  {
+    "label": "Docs",
+    "type": "tab",
+    "path": "docs",
+    "children": [
+      {
+        "label": "Homepage",
+        "type": "page",
+        "path": "docs/homepage.mdx"
+      },
+      {
+        "label": "Plants",
+        "type": "folder",
+        "children": []
+      },
+      {
+        "label": "Flowers",
+        "type": "folder",
+        "children": [
+          {
+            "label": "HI",
+            "type": "page",
+            "path": "Flowers/flower-hi.mdx"
+          },
+          {
+            "label": "LOW",
+            "type": "page",
+            "path": "Flowers/flower-low.mdx"
+          }
+        ]
+      }
+    ]
+  }
+]
